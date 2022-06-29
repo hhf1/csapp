@@ -11,5 +11,14 @@
 #### git的常用操作
 >参考资料：[git的使用](https://zhuanlan.zhihu.com/p/369486197)   [git常用命令](https://blog.csdn.net/weixin_67585820/article/details/123554416)
 
+1. `git config --global user.name "[name]"` 设置提交代码的用户名
+2. `git config --global user.email "[email]"` 设置提交代码的电子邮箱
+3. `git init` 初始化工作目录为一个仓库
+4. `git clone [url]` 从GitHub上克隆一个仓库
+5. `git add [file]` 
+6. `git add .`
+7. `git commit -m "[message]"`
+8. `git commit -a`
+9.  
 
-
+![](pic/2022-06-29-21-49-46.png)
